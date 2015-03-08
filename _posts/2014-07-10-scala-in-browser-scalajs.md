@@ -1,7 +1,7 @@
 ---
 layout: post
 category : lessons
-tagline: "Scala in the browser : Scala.js"
+title: "Scala in the browser : Scala.js"
 tags : [scala, javascript]
 ---
 {% include JB/setup %}
