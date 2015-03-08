@@ -1,6 +1,6 @@
 ---
 layout: post
-category : lessons
+category : prog
 title: "Scala in the browser : Scala.js"
 tags : [scala, javascript]
 ---
