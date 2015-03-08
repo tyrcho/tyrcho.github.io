@@ -6,7 +6,7 @@ tags : [chinois]
 ---
 {% include JB/setup %}
 
-#Merci, pardon
+##Merci, pardon
 
 Chinois | Pinyin | Traduction 
 ---|---|---
@@ -15,7 +15,7 @@ Chinois | Pinyin | Traduction
 对不起 | duì bu qǐ  | pardon, désolé
 没关系 | méi guān xi |  ça ne fait rien
 
-#Bonjour
+##Salutations
 
 Chinois | Pinyin | Traduction 
 ---|---|---
@@ -25,7 +25,7 @@ Chinois | Pinyin | Traduction
 早上好 | Zǎoshang hǎo | bonjour (du matin)
 请坐 | Qǐng zuò | asseyez-vous (svp)
 
-#Présentations
+##Présentations
 
 Chinois | Pinyin | Traduction 
 ---|---|---
@@ -36,7 +36,8 @@ Chinois | Pinyin | Traduction
 你姓什么 ?	 | Nǐ xìng shénme	 | Quel est votre nom ?
 
  
-#Questions
+##Questions
+
 Chinois | Pinyin | Traduction 
 ---|---|---
 请问	 | qǐngwèn	 | svp (avant une question)
