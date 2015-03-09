@@ -6,6 +6,7 @@ tags : [chinois]
 ---
 {% include JB/setup %}
 
+{:.table}
 |  adjectif   |        |        |  contraire       |
 |-----|:--------:|:--------:|---------|
 | bon |  好 <br/> hǎo |  差 <br/> chà  | mauvais |
