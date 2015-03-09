@@ -27,7 +27,10 @@ author :
 #
 production_url : http://tyrcho.github.io
 
-markdown: kramdown
+markdown: redcarpet
+redcarpet:
+  extensions: ["no_intra_emphasis", "fenced_code_blocks", "autolink", "tables", "strikethrough", "superscript", "with_toc_data"]
+
 
 # All Jekyll-Bootstrap specific configurations are namespaced into this hash
 #
